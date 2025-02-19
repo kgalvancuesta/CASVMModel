@@ -2,7 +2,7 @@
 
 # California Department of Housing Support Vector Machine Ensemble
 
-Here you will find several sample files of the work I conducted while working for the California Department of Housing. The files you will find here were generated for this portfolio and are based on some initial findings. Still, I was able to include some of the original work. Lastly, the datasets were much too large to include (can be found publicly), but it is possible to load a sample SVM on your device.
+Here you will find several sample files of the work I conducted while working for the California Department of Housing. The files you will find here were generated for this portfolio and are based on some initial findings. Still, I was able to include results of the original work. Lastly, the datasets were much too large to include (can be found publicly), but it is possible to load a sample SVM on your device.
 
 ## CAML
 Above you will see slightly edited Python files (so that you may run them yourself) made to train or load an SVM.
